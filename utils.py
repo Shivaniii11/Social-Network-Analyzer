@@ -1,0 +1,11 @@
+def menu():
+    print("\n--- Relationship Mapper ---")
+    print("1. Add User")
+    print("2. Add Connection")
+    print("3. Show Users")
+    print("4. Mutual Connections")
+    print("5. Shortest Path")
+    print("6. Recommendations")
+    print("7. Most Connected User")
+    print("8. Visualize Network")
+    print("0. Exit")
